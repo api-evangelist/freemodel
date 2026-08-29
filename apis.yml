@@ -8,6 +8,17 @@ description: 'Freemodel is a presale home renovation platform that helps real es
   profile was surfaced as a QED Investors portfolio company and enriched by the API Evangelist
   pipeline; Freemodel publishes no public API or developer program at this time.'
 url: https://raw.githubusercontent.com/api-evangelist/freemodel/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
